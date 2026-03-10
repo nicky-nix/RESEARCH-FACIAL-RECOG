@@ -1,4 +1,6 @@
-# Fast Facial Recognition Attendance System
+
+# Create a detailed README with setup instructions
+readme_content = """# Fast Facial Recognition Attendance System
 **Sibutad National High School**
 
 Based on the research paper: *Manual vs. Automated: A Quantitative Comparison of Attendance Monitoring Systems*
@@ -279,3 +281,15 @@ Free to use and modify for academic institutions.
 **Date**: October 2025  
 **Institution**: Sibutad National High School  
 **Research Team**: Dominic J. Palaca et al.
+"""
+
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(readme_content)
+
+print("✓ README file created: README.md")
+print("\nComplete documentation includes:")
+print("- Installation guide")
+print("- Setup instructions")
+print("- Usage tutorial")
+print("- Troubleshooting tips")
+print("- Research context")
