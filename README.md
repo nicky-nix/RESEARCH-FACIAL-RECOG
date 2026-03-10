@@ -1,4 +1,4 @@
-This is a complete, copy-and-paste ready `README.md` for your GitHub repository. It integrates the setup instructions, usage guide, and technical details directly from the source code.
+
 
 ---
 
@@ -122,9 +122,5 @@ Contains Weekly and Monthly reports for administrative review.
 * **Lighting:** Ensure the room is well-lit. Avoid strong backlighting behind students.
 * **Multiple Faces:** A warning is displayed if more than one face is detected to ensure accuracy.
 * **Verification Time:** The system records exactly how many seconds the AI took to recognize each student.
-
-```
-
-Would you like me to help you create a **Troubleshooting** section to include in this README for common errors like "No face found" or camera connection issues?
 
 ```
